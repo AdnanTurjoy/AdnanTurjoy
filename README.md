@@ -27,6 +27,8 @@ AdnanTurjoy/AdnanTurjoy is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!-- ### 🔨 Languages and Tools: -->
+<br>
+<br>
 <h3> 🔨 &nbsp;Languages and Tools:</h3>
 <p  align="center">
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
@@ -55,6 +57,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<br>
 <br>
 
 <h3> 📈 &nbsp;My GitHub History!</h3>

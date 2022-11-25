@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
 
-
+<h1 align="center">
+# Hello, folks! <img src="https://user-images.githubusercontent.com/25929901/204031457-f8c1ae7b-7f48-4406-92eb-1eeed5b8c865.gif" width="30px" height="30px" />
+</h1>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -34,5 +33,6 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdnanTurjoy&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanTurjoy&theme=noctis_minimus&layout=compact" />
 </a>
+
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)

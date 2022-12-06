@@ -1,6 +1,8 @@
 
 <h1 align="center">
-# Hello, I'm Adel Md. Adnan! <img src="https://user-images.githubusercontent.com/25929901/204031457-f8c1ae7b-7f48-4406-92eb-1eeed5b8c865.gif" width="30px" height="30px" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adnan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 </h1>
 
 <h3 align="center">
@@ -8,19 +10,24 @@
 </h3>
 <p align="center">
 <a href="https://portfolio-adnan.netlify.app">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  <img height="40" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/adnan005">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 
 <a href="https://twitter.com/TurjoyAdnan">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+  <img height="40"  src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="https://www.instagram.com/turjoy_adnan">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="40" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+
+
+<hr>
+
+
 
 <!---
 AdnanTurjoy/AdnanTurjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ### 🔨 Languages and Tools: -->
 <br>
 <br>
-<h3> 🔨 &nbsp;Languages and Tools:</h3>
+<h3 align="center"> 🔨 &nbsp;Languages and Tools:</h3>
 <p  align="center">
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="42"/> </a>
@@ -56,18 +63,30 @@ You can click the Preview link to take a look at your changes.
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"  height="42"/> </a>  
 
 </p>
-
+<br><br><br>
 <br>
-</br>
-
-<h3> 📈 &nbsp;My GitHub History!</h3>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanTurjoy&theme=react&border=61dafb&hide_border=true" alt="AdnanTurjoy" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AdnanTurjoy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanTurjoy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanturjoy&show_icons=true&locale=en&layout=compact" alt="adnanturjoy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanturjoy&show_icons=true&locale=en" alt="adnanturjoy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanturjoy&" alt="adnanturjoy" /></p>
+<hr>
 
 <br>
 

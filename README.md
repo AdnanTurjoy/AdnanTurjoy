@@ -9,21 +9,12 @@
   Let's Connect and have a Chat!💬
 </h3>
 <p align="center">
-<a href="https://portfolio-adnan.netlify.app">
-  <img height="40" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/adnan005">
-  <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-
-<a href="https://twitter.com/TurjoyAdnan">
-  <img height="40"  src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/turjoy_adnan">
-  <img height="40" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+<a href="https://twitter.com/turjoyadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="turjoyadnan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adnan005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan005" height="30" width="40" /></a>
+<a href="https://instagram.com/turjoy_adnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turjoy_adnan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adnan_turjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adnan_turjoy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/turjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="turjoy" height="30" width="40" /></a>
 </p>
-
 
 <hr>
 
